@@ -1,3 +1,12 @@
+# Android Devs Buenos Aires
+
+Repositorio relacionado al evento **Introducción a Instant Apps** realizado el 4 de Julio de 2018.
+
+ - _Evento:_ [Introducción a Instant Apps](https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/events/251989129/)
+ - _Video_: [YouTube](https://www.youtube.com/watch?v=RZypl0oP7fA)
+
+### Descripción original del repositorio:
+
 # DeliveryYa
 Android Instant App 
 <img src='https://github.com/sebacipolat/DeliveryYa/blob/master/deliveryya-base/src/main/res/drawable-xhdpi/ic_launcher.png' height="100"/>
